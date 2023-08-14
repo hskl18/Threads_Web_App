@@ -5,5 +5,4 @@ async function page() {
         </main>
     )
 }
-
 export default page
